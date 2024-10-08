@@ -1,0 +1,63 @@
+[13-May-2024 13:20:10 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:16 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:17 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:18 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:19 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:21 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:34 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:36 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:37 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php on line 21
+[13-May-2024 13:20:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: php_network_getaddresses: getaddrinfo for localhost1 failed: Name or service not known in /home/linkper/public_html/mobile/config.php:21
+Stack trace:
+#0 /home/linkper/public_html/mobile/config.php(21): mysqli_connect('localhost1', 'linkper_root', 'D5f4PrAq[sdA', 'linkper_urls', '3306')
+#1 /home/linkper/public_html/mobile/index.php(17): include('/home/linkper/p...')
+#2 {main}
+  thrown in /home/linkper/public_html/mobile/config.php on line 21

@@ -1,0 +1,216 @@
+
+#home_buttons_div{
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  background-color: #4682b4;
+  padding-left: 5px;
+  padding-right: 15px;
+ 
+ /* box-shadow: inset 0px 10px 25px 2px rgba(0, 0, 0, 0.25);
+*/
+  }
+  
+#home_urlNumber_span{
+  background-color: #4682b4;
+		color: white;
+		width: 130px;
+height: 32px;
+border-radius: 6px;
+border-style: solid;
+border-color: white;
+border-width: 1px; 
+position: fixed;
+margin-left: 10px;
+ margin-top: 10px;
+text-align: center;
+padding-top: 10px;
+}
+
+
+#home_add_btn{
+  display: block;
+  background-color: #4682b4;
+background-image: url("../icons/add2.png");
+background-position: 5px;
+background-size: 22px;
+background-repeat: no-repeat;
+
+color: white;
+width: 130px;
+height: 34px;
+border-style: none;
+position: fixed;
+margin-left: 10px;
+margin-top: 70px;/*
+box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);*/ 
+}
+
+#home_add_btn:focus, #home_external_btn:focus, #home_check_btn:focus,#settings:focus{
+    background-color: #1e90ff;
+}
+#home_external_btn{
+  display: block;
+  background-color: #4682b4;
+background-image: url("../icons/more.png");
+background-position: 4px;
+background-size: 17px;
+background-repeat: no-repeat;
+
+color: white;
+width: 130px;
+height: 30px;
+border-style: none;
+position: fixed;
+margin-left: 10px;
+margin-top: 10px;
+text-indent: 8px;
+}
+
+#home_check_btn{
+  display: block;
+  background-color: #4682b4;
+	background-image: url("../icons/checkdata.png");
+	background-position: 4px;
+	background-size: 20px;
+	background-repeat: no-repeat;
+
+color: white;
+width: 130px;
+height: 34px;
+border-style: none;
+margin-left: 10px;
+text-indent: 10px;
+margin-top: 115px;
+}
+
+
+#suggestionsSpan
+{
+    margin-top: 140px;
+    font-family: sans-serif;
+    color: white;
+    font-size: 15px;
+     width: 145px; 
+     
+    
+}
+
+#suggestionsLink
+{
+  color: pink; 
+  font-size: 13px;
+}
+
+#home_search_span{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  text-align: center;
+ 
+
+}
+
+#home_search_box{
+	position: inherit;
+	background-image: url("../icons/filter.png");
+	background-position: 5px;
+	background-size: 48px;
+	background-repeat: no-repeat;
+	position: left;
+	width: 280px;
+	height: 30px;
+	text-align: left;
+	border-style: none; 
+	border-bottom-style: none;
+	text-indent: 40px;
+}
+
+#home_select_filter{
+  position: inherit;
+  height: 30px;
+  border-style: none;
+  color: black;
+  border-radius: 6px;
+ background-color: white;
+ font-size: 15px;
+ font-family: Helvetica, sans-serif;
+ 
+}
+
+
+#emailLabel{
+  position: absolute;
+  right: 2;
+  top: 4;
+  border-radius: 3px;
+  color: white;
+  border-style: none;
+  background-color: crimson;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+ font-family: sans-serif;
+}
+
+#home_deleteAll_btn{
+  position: absolute;
+  bottom: 5;
+	background-color: #4682b4;
+    /* background-image: url("../icons/delete.png");
+	background-position: 5px;
+	background-size: 15px;
+	background-repeat: no-repeat;
+*/ 
+
+width: 130px;
+height: 34px;
+border-style: none;
+color: white;
+
+}
+
+
+#addUrl_text{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  height: 35px;
+  width: 300px;
+  border-radius: 6px;
+  border-style: none;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1);
+  text-align: center;
+
+}
+
+#addsubject_text{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  height: 35px;
+  width: 300px;
+  border-radius: 6px;
+  border-style: none;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.1);
+  text-align: center;
+
+}
+
+
+#save_url_btn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 6px;
+  height: 35px;
+  border-style: none;
+  color: white;
+  width: 100px;
+  background-color: #1e90ff;
+  margin-top: 30px;
+}
